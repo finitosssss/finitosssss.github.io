@@ -1,0 +1,18 @@
+{
+  "id": "my_menu",
+  "children": [
+    {
+      "name": "Головна",
+      "url": "/"
+    },
+    {
+      "name": "Каталог",
+      "id": "catalog"
+    },
+    {
+      "name": "Галерея",
+      "url": "/gallery/"
+
+    }
+  ]
+ }
